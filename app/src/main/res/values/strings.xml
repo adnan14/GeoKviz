@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoKviz</string>
+
+    <string name="question_1">Da li se Lesoto nalazi u Srednjoj Americi?</string>
+    <string name="question_2">Ulijeva li se Volga u Crno more?</string>
+    <string name="question_3">Je li glavni grad Vijetnama zapadnije od glavnog grada Sjeverne Koreje?</string>
+
+    <string name="true_label">DA</string>
+    <string name="false_label">NE</string>
+
+    <string name="correct">Ispravan odgovor</string>
+    <string name="incorrect">Neispravan odgovor</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
